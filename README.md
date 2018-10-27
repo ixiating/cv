@@ -1,2 +1,2 @@
 # cv
-![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+![image](https://github.com/ixiating/Rail-Inspection-System/blob/master/Fig9.pdf)
